@@ -1,5 +1,4 @@
-<h1 align="center">Famidash!</h1>
-<h3 align="center">This is where the magic happens</h3>
+<h1 align="center">This is where the magic happens</h3>
 
 Famidash is an UNOFFICIAL backport of Geometry Dash for the Nintendo Entertainment System
 
