@@ -1,4 +1,4 @@
-<h1 align="center">This is where the magic happens</h3>
+<h1 align="center">This is where the magic happens!</h3>
 
 Hey! Welcome to LNLenost's profile!
 
@@ -16,9 +16,9 @@ Hey! Welcome to LNLenost's profile!
 
 - 💬 Ask me about **Geometry Dash**
 
-- 📫 How to reach me **via GBATemp**
+- 📫 How to reach me: **via GBATemp**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact: **I bricked my Wii 2 times in the same day**
 
 Below are my stats! Have a nice day/night :D
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lnlenost&show_icons=true&locale=en" alt="lnlenost" /></p>
