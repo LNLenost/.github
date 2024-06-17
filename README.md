@@ -6,11 +6,11 @@ Hey there! I'm LNLenost, a 14 year old boy who loves retro gaming and modding co
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lnlenost" alt="lnlenost" /></a> </p>-->
 
-- 🔭 I’m currently working on [nothing because the New Shop Channel shut down](https://github.com/LNLenost)
+- 🔭 I’m currently working on [New Shop Channel](https://github.com/newshopchannel)
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [nothing because the New Shop Channel shut down](https://github.com/LNLenost)
+- 👯 I’m looking to collaborate on [New Shop Channel](https://github.com/newshopchannel)
 
 - 👨‍💻 All of my projects are available [here](https://github.com/LNLenost/tab?=repositories)
 
