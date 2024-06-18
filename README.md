@@ -12,7 +12,7 @@ Hey there! I'm LNLenost, a 14 year old boy who loves retro gaming and modding co
 
 - 👯 I’m looking to collaborate on [New Shop Channel](https://github.com/newshopchannel)
 
-- 👨‍💻 All of my projects are available [here](https://github.com/LNLenost/tab?=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/LNLenost?tab=repositories)
 
 - 💬 Ask me about: **Geometry Dash**
 
